@@ -1,0 +1,13 @@
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/bin/Debug/netcoreapp2.2/ContextClassLibrary.deps.json
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/bin/Debug/netcoreapp2.2/ContextClassLibrary.runtimeconfig.json
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/bin/Debug/netcoreapp2.2/ContextClassLibrary.runtimeconfig.dev.json
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/bin/Debug/netcoreapp2.2/ContextClassLibrary.dll
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/bin/Debug/netcoreapp2.2/ContextClassLibrary.pdb
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/obj/Debug/netcoreapp2.2/ContextClassLibrary.csprojAssemblyReference.cache
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/obj/Debug/netcoreapp2.2/ContextClassLibrary.csproj.CoreCompileInputs.cache
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/obj/Debug/netcoreapp2.2/EFCoreNpgsqlNodaTime.cs
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/obj/Debug/netcoreapp2.2/ContextClassLibrary.AssemblyInfoInputs.cache
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/obj/Debug/netcoreapp2.2/ContextClassLibrary.AssemblyInfo.cs
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/obj/Debug/netcoreapp2.2/ContextClassLibrary.dll
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/obj/Debug/netcoreapp2.2/ContextClassLibrary.pdb
+/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/bin/Debug/netcoreapp2.2/appsettings.json

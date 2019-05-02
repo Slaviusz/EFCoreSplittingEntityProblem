@@ -1,0 +1,86 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/ContextClassLibrary.csproj",
+    "projectName": "ContextClassLibrary",
+    "projectPath": "/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/ContextClassLibrary.csproj",
+    "outputPath": "/Users/slavomir.danas/RiderProjects/SplittingEntity/ContextClassLibrary/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/Users/slavomir.danas/.dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.2.4, )"
+        },
+        "Microsoft.EntityFrameworkCore.Relational": {
+          "target": "Package",
+          "version": "[2.2.4, )"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "target": "Package",
+          "version": "[2.2.4, )"
+        },
+        "Microsoft.Extensions.Configuration": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Configuration.Json": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Logging": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Logging.Console": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+          "target": "Package",
+          "version": "[1.1.1, )"
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL.NodaTime": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
