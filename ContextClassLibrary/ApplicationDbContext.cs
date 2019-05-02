@@ -86,8 +86,12 @@ namespace ContextClassLibrary
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Table2>()
+                .HasOne(p => p.Table1)
+                .WithOne(p => p.Table2);
         }
 
         public DbSet<Table1> Table1s { get; set; }
+        public DbSet<Table2> Table2s { get; set; }
     }
 }

@@ -6,7 +6,6 @@ namespace ContextClassLibrary
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public Instant Starts { get; set; }
-        public Instant Ends { get; set; }
+        public virtual Table2 Table2 { get; set; }
     }
 }
